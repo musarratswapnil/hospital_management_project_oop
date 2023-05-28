@@ -3,7 +3,7 @@ Project Name: "HOSPITAL MANAGEMENT SYSTEM"
 A hospital management system (HMS) is an comprehensive application that helps healthcare organizations efficiently manage various aspects of their operations, including patient management, medical records, administrative tasks, and financial transactions. It is designed to streamline workflows, enhance productivity, improve patient care, and ensure effective resource utilization within a hospital or healthcare facility. The system is designed to work both as a file-based application and a console application, providing flexibility and convenience to users.
 
 Features:
-1. Patient Details: 
+1. Patient Details:
 Users can enter and manage patient information, including name, gender, age, address, and contact details.
 Patient details are securely stored and can be accessed for future process. User can see the old patient's details.
 2. Doctor Selection:
